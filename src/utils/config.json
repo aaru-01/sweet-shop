@@ -1,0 +1,40 @@
+{
+    "title":"Sweet Shop",
+    "description" : "This is a list of Indian sweets and desserts, also called mithai, a significant element in Indian cuisine. Indians are known for their unique taste and experimental behavior when it comes to food. Many Indian desserts are fried foods made with sugar, milk or condensed milk. Ingredients and preferred types of dessert vary by region. ",
+    "theme":{
+        "primaryColor": "#d9184e",
+        "secondaryColor" : "#ed4e7b",
+        "accentColor": "#ed9fe5"
+    },
+    
+    "serviceCardDirection":"row",
+    
+    "services":[
+        {
+            "title":"Gulab jamun",
+            "description": "Fried milk balls soaked in sweet syrup, such as rose syrup or honey.Fried, sugar syrup based",
+            "price": 500
+              
+        },
+        {
+            "title":"Jalebi",
+            "description": "Dough fried in a coil shape dipped in sugar syrup, often taken with milk, tea, yogurt, or lassi.Fried, sugar syrup based",
+            "price": 450
+        },
+        {
+            "title":"Kaju katli",
+            "description": "Cashews, ghee with cardamom and sugar.",
+            "price": 550
+        },
+        {
+            "title":"Kalakand",
+            "description": "Milk, cottage cheese.",
+            "price": 450
+        },
+        {
+            "title":"Laddu",
+            "description": "Gram flour (besan), ghee, sugar.",
+            "price": 350
+        }
+    ]
+}
